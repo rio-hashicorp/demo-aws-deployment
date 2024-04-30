@@ -16,7 +16,7 @@ terraform {
     organization = "rio-hashicorp"
 
     workspaces {
-      name = "demo-cost-policy"
+      name = "demo-aws-deployment"
     }
   }
 
